@@ -137,5 +137,8 @@ color: green;
   color:rgb(37, 200, 190);
 }
 .small_icon {
-  color: blue;
+  color: rgb(36, 144, 184);
+}
+.area_destra p a {
+  text-decoration: 2px underline lightblue;
 }
