@@ -147,6 +147,12 @@ color: green;
 .area_destra p a {
   text-decoration: underline lightblue;
 }
+.learn {
+  width: 140%;
+}
+.left_side {
+  padding-bottom: 30px;
+}
 /* second_section */
 
 #designed {
