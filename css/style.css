@@ -4,12 +4,9 @@
   box-sizing: border-box;
 }
 body {
-  /* background-color: #697782; */
   font-family: 'Montserrat', sans-serif;
-  /* border-top: 80px solid #202527; */
   font-size: 16px;
   color: #697782;
-  /* background: #fff; */
   width: 100%;
   /* height: 100vh; */
 }
@@ -179,9 +176,7 @@ color: green;
   overflow: hidden;
 
 }
-/* .schare {
-  width: 10%;
-} */
+
 /* third-section */
 .iceberg {
   width: 40%;
