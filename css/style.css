@@ -13,8 +13,6 @@ body {
 .padding_top_60 {
   padding-top: 60px;
   width: 100%;
-  /* height: 450px;
-  border-bottom: 1px solid grey */
 }
 /* header-top */
 .header-top {
@@ -99,19 +97,40 @@ color: green;
 /* logo_line */
 .logo_line {
   width: 100%;
-  height: 50px;
+  height: 70px;
   padding: 20px 0;
   background-color: white;
   border-bottom: 1px solid grey;
+  line-height: 40px;
 }
 .logo_photos {
   width: 80%;
-  /* padding: 10px auto; */
+  vertical-align: middle;
 }
 .logo_lists {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
+}
+.hunt {
+  width: 30%;
+  opacity: 0.2;
+}
+.life {
+  width: 30%;
+  opacity: 0.2;
+}
+.forbes {
+  width: 30%;
+  opacity: 0.2;
+}
+.net {
+  width: 20%;
+  opacity: 0.2;
+}
+.tech {
+  width: 40%;
+  opacity: 0.6;
 }
 /* first-section */
 .wrapper_80 {
